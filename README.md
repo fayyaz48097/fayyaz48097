@@ -16,7 +16,7 @@
 
 - 🔭 I'm currently building **Moneta**, a high-scalability multi-tenant utility billing platform for a US-based client, using Laravel 12 and an Action-Repository-Service architecture
 - 💼 Junior Laravel Developer at **Dev Dimensions**
-- 🌱 2+ years of hands-on experience across full-stack Laravel + React applications, e-commerce platforms, and backend systems
+- 🌱 3+ years of hands-on experience across full-stack Laravel + React applications, e-commerce platforms, and backend systems
 - 🔐 Practical experience implementing authentication/authorization, input validation, and defenses against common web vulnerabilities
 - 🎓 BS Software Engineering, Minhaj University Lahore (CGPA 3.67)
 - 📫 Reach me at **iam.fayyazali@gmail.com**
